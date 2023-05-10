@@ -1,9 +1,9 @@
-<p class="dev-card">
-  <a href="https://app.daily.dev/rikerik"><img src="https://api.daily.dev/devcards/074e6fb61a8240e7b0ce14491cfffd8c.png?r=0nh" width="300" alt="Bakó Erik Dominik's Dev Card"/></a>
-</p>
-.dev-card {
-  float: right;
-}
+<div style="float= right;">
+  <a href="https://app.daily.dev/rikerik">
+    <img src="https://api.daily.dev/devcards/074e6fb61a8240e7b0ce14491cfffd8c.png?r=0nh" width="300" alt="Bakó Erik Dominik's Dev Card"/>
+  </a>
+</div>
+
 
 <!--
 **rikerik/rikerik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
