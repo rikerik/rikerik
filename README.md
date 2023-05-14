@@ -1,4 +1,5 @@
-![Java Version](https://img.shields.io/badge/java-11-blue.svg)
+[![Java](https://img.shields.io/badge/Java-11-blue?logo=java)](https://www.java.com/)
+
 
 <a href="https://app.daily.dev/rikerik">
   <img src="https://github.com/rikerik/rikerik/blob/main/devcard.svg" align="right" width="300" alt="Bakó Erik Dominik's Dev Card"/>
