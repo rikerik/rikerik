@@ -1,4 +1,4 @@
-
+<a href="https://img.shields.io/badge/-ReactJS" </a>
 
 <a href="https://app.daily.dev/rikerik">
   <img src="https://github.com/rikerik/rikerik/blob/main/devcard.svg" align="right" width="300" alt="Bakó Erik Dominik's Dev Card"/>
