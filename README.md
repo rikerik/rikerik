@@ -1,4 +1,5 @@
-[![Java](https://img.shields.io/badge/Java-11-blue?logo=java)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
 
 
 <a href="https://app.daily.dev/rikerik">
