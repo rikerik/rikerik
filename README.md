@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/rikerik">
-  <img src="https://github.com/rikerik/rikerik/blob/main/devcard.svg" style="float: right;" width="400" alt="Bakó Erik Dominik's Dev Card"/>
+  <img src="https://github.com/rikerik/rikerik/blob/main/devcard.svg" style="float: right;" width="300" alt="Bakó Erik Dominik's Dev Card"/>
 </a>
 
 
