@@ -1,4 +1,5 @@
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=orange&logoWidth=40&logoHeight=40&labelBorderRadius=50%)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=orange&logoWidth=40&logoHeight=40&labelBorderRadius=20px)](https://www.java.com/)
+
 
 
 
