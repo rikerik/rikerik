@@ -20,6 +20,12 @@
 <br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 <br>
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+<br>
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira-software&logoColor=white)](https://www.atlassian.com/software/jira)
+<br>
+
+
 
 
 
