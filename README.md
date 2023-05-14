@@ -1,4 +1,5 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=black&color=orange&logoWidth=40&logoHeight=40&labelBorderRadius=20px)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 
