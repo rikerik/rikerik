@@ -30,6 +30,8 @@
 <br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 <br>
+[![Maven](https://img.shields.io/badge/Maven-2496ED?style=flat-square&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
+<br>
 
 
 
