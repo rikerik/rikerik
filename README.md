@@ -22,8 +22,6 @@
 <br>
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 <br>
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira-software&logoColor=white)](https://www.atlassian.com/software/jira)
-<br>
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 <br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
